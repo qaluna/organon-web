@@ -1113,7 +1113,7 @@
       licenseKey: '',
       credits: {
         "enabled": false,
-        "label": 'Made with fullPage.js',
+        "label": 'ORGANON',
         "position": 'right'
       },
       //scrolling
