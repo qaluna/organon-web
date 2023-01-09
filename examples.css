@@ -14,7 +14,9 @@ table {
 }
 fieldset,img {
     border: 0;
-	height:100%;
+}
+img {
+	height: auto;
 }
 address,caption,cite,code,dfn,em,strong,th,var {
     font-weight: normal;
