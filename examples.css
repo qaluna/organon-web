@@ -12,11 +12,11 @@ a{
 table {
     border-spacing: 0;
 }
-fieldset,img {
+fieldset {
     border: 0;
 }
 img {
-	height: fit-content;
+	height: 100%;
 }
 address,caption,cite,code,dfn,em,strong,th,var {
     font-weight: normal;
