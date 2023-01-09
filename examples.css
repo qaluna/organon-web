@@ -303,7 +303,10 @@ h1{
 /* Sections backgrounds
 * --------------------------------------- */
 #section0{
-	background-image: #c3c2c2;
+	/* background-image: #c3c2c2; */
+	background-image: url(assets/mobile/1.png);
+	background-size: cover;
+	padding: 6% 0 0 0;
 }
 
 #section1{
