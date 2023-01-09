@@ -16,7 +16,7 @@ fieldset,img {
     border: 0;
 }
 img {
-	height: auto;
+	height: fit-content;
 }
 address,caption,cite,code,dfn,em,strong,th,var {
     font-weight: normal;
